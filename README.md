@@ -1,0 +1,2 @@
+# Fantasy Football Tiers
+I don't watch that much football, but I love beating my fanatic friends. This script just scrapes data from [Boris Chen's website](http://www.borischen.co/) and tells me who I should play. Eventually I'm going to add notifications if high ranked players are on waivers.
